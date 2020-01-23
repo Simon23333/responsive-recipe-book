@@ -1,0 +1,68 @@
+html {
+  font-family: Muji, sans-serif;
+  background-color: #f1d1c7;
+}
+
+.logo {
+  width: 64px;
+}
+
+a:focus {
+  outline: 3px solid #fff;
+}
+
+.small-flex {
+  max-width: 50%;
+  max-height: 70%;
+}
+
+.masthead {
+  background-color: #333;
+}
+
+p {
+  color: #333;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+li a:hover {
+  border-radius: 5px;
+  border-width: 4px;
+  border-color: #f28970;
+  border-style: inset;
+}
+
+.btn {
+  border-radius: 6px;
+  border-width: 4px;
+  border-color: #f38970;
+  border-style: solid;
+  color: #bb4420;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #f28970;
+  border-radius: 10px;
+  border-width: 4px;
+  border-color: #bb4420;
+}
+
+.card {
+  border: #;
+  border-radius: 25px;
+  transition: 250ms;
+  margin: .5rem auto;
+  padding: 1rem;
+  max-width: 25em;
+}
+
+p {
+  font-family: serif;
+  font-size: 15px;
+  font-style: normal;
+}
