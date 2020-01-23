@@ -1,10 +1,15 @@
 html {
-  font-family: Muji, sans-serif;
+  font-family: Roboto Slab, serif;
   background-color: #f1d1c7;
 }
 
 .logo {
   width: 64px;
+}
+
+.cookbook {
+  font-family: sans-serif;
+  color: #f28970;
 }
 
 a:focus {
@@ -17,7 +22,7 @@ a:focus {
 }
 
 .masthead {
-  background-color: #333;
+  background-color: none;
 }
 
 p {
@@ -25,7 +30,7 @@ p {
 }
 
 .nav a {
-  color: #fff;
+  color: #f28970;
   text-decoration: none;
 }
 
