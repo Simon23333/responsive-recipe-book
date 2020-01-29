@@ -3,6 +3,10 @@ html {
   background-color: #f1d1c7;
 }
 
+.cookbook {
+  font-size: 35px;
+}
+
 .logo {
   width: 64px;
 }
@@ -71,4 +75,9 @@ p {
   font-family: serif;
   font-size: 15px;
   font-style: normal;
+}
+
+.footer {
+  background-color: #f28970;
+  transition: background-color .2s ease;
 }
