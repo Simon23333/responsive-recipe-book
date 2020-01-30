@@ -82,5 +82,15 @@ p {
 
 .photo{
     float: right;
-    width: 40%;
+    width: 48%;
+}
+
+li {
+  font-size: 15px;
+  font-family: Roboto Slab,serif;
+}
+
+p {
+  font-size: 15px;
+  font-family: Roboto Slab,serif;
 }
