@@ -29,10 +29,6 @@ a:focus {
   background-color: none;
 }
 
-p {
-  color: #333;
-}
-
 .nav a {
   color: #f28970;
   text-decoration: none;
@@ -75,9 +71,16 @@ p {
   font-family: serif;
   font-size: 15px;
   font-style: normal;
+  color: #333;
 }
 
 .footer {
   background-color: #f28970;
   transition: background-color .2s ease;
+}
+
+
+.photo{
+    float: right;
+    width: 40%;
 }
